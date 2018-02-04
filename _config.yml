@@ -8,7 +8,7 @@ subtitle: 生活随笔
 description: 纸屏石枕竹方床，手倦抛书午梦长。
 author: Gangzhen QIAN
 language: zh-Hans
-timezone: UTC/GMT+08:00
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
